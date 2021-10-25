@@ -1,0 +1,2 @@
+rootProject.name = "Real Gold Encoder"
+include ':app'

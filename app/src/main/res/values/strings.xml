@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IND Encoder</string>
+    <string name="please_input_the_id_number_below">Please input the ID number below</string>
+    <string name="id_number">ID number</string>
+    <string name="encode">Encode</string>
+    <string name="please_tap_the_card_to_the_back_of_the_phone">Please tap the card to the back of the phone</string>
+    <string name="data_read_successfully">Data read successfully</string>
+</resources>
