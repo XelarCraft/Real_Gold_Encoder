@@ -9,7 +9,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RestClient {
 
-    private final String Base_URL="http://e-qaran.so:5555/";
+    private final String Base_URL="http5555/";
 
     public Retrofit getClientLog(){
 
